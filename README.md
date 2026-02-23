@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg" alt="Banner" width="100%"/>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lnparrat/" target="_blank">
+  <a href="https://www.linkedin.com/in/lnparrat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Laura%20Parra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a> 
   <a href="mailto:lauraparratorres10@gmail.com">
