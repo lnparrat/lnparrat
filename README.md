@@ -17,9 +17,8 @@
 <h3 align="center">Electrical Engineer | Energy Systems | Data-Driven Optimization</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250"/>
 </p>
-
 ---
 
 <h2>🔎 About Me</h2>
