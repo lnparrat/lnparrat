@@ -1,6 +1,5 @@
 <h1>🌎⚡ Hi! I'm Laura – Data Analyst Focused on Energy & Sustainability</h1>
 
-<img src="https://raw.githubusercontent.com/vanzasetia/vanzasetia/main/images/banner.jpg" alt="Banner" width="100%"/>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lnparrat/" target="_blank">
