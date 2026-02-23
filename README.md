@@ -2,13 +2,15 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lnparrat/" target="_blank">
+  <a href="https://www.linkedin.com/in/lnparrat/">
     <img src="https://img.shields.io/badge/LinkedIn-Laura%20Parra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a> 
   <a href="mailto:lauraparratorres10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/github/followers/lnparrat?style=for-the-badge" alt="GitHub followers">
+  <a href="https://github.com/lnparrat">
+    <img src="https://img.shields.io/github/followers/lnparrat?style=for-the-badge&logo=github" alt="GitHub followers">
+  </a>
 </div>
 
 <hr>
