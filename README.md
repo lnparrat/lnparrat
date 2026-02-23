@@ -13,89 +13,102 @@
   </a>
 </div>
 
-<hr>
+<h1 align="center">⚡ Engineer Who Knows Data</h1>
+<h3 align="center">Electrical Engineer | Energy Systems | Data-Driven Optimization</h3>
 
-<h2>About Me</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
+
+---
+
+<h2>🔎 About Me</h2>
 
 <p>
-I am an Electrical Engineer transitioning into Data Analytics, with a strong interest in renewable energy and system efficiency.
+I am an Electrical Engineer with a strong analytical orientation and growing expertise in Data Analytics, 
+particularly interested in renewable energy, system efficiency, and performance optimization.
 </p>
 
 <p>
-Through my Data Analysis diploma, I developed practical skills in transforming raw data into meaningful insights that support strategic decision-making.
+Through hands-on projects and formal training in Data Analysis, I developed practical skills 
+in transforming raw data into structured insights that support operational and strategic decision-making.
 </p>
 
 <p>
-My goal is to use data as a tool to understand complex systems — especially in the energy sector — and contribute to a more sustainable and efficient future.
+My goal is to understand complex systems — especially in energy and technology — 
+and optimize them using data-driven approaches ⚡📊.
 </p>
 
+---
+
+<h2>🧠 What Defines My Profile</h2>
+
 <ul>
-  <li>Analytical thinking</li>
-  <li>Technical engineering background</li>
-  <li>Structured problem-solving</li>
-  <li>Curiosity about how systems work</li>
+  <li>⚙️ Analytical thinking applied to real engineering systems</li>
+  <li>🔌 Strong technical electrical background</li>
+  <li>📐 Structured and methodical problem-solving</li>
+  <li>🔍 Curiosity about how systems behave and how to improve them</li>
+  <li>📊 Bridging operational reality with data insights</li>
 </ul>
 
-<p><strong>I recommend exploring my pinned repositories to see my latest data projects.</strong></p>
+---
+
+<h2>📊 Technical Skills & Tools</h2>
+
+<ul>
+  <li>🗄️ <strong>SQL</strong> – Queries, joins, aggregation, structured analysis</li>
+  <li>📈 <strong>Excel (Advanced)</strong> – Pivot tables, Power Query, KPI tracking</li>
+  <li>📊 <strong>Tableau</strong> – Dashboard creation & business visualization</li>
+  <li>🐍 <strong>Python (Pandas)</strong> – Data cleaning & exploratory analysis</li>
+  <li>🤖 <strong>Machine Learning (Foundations)</strong> – Automation basics</li>
+  <li>🔄 <strong>Data Cleaning & Transformation</strong></li>
+  <li>📚 <strong>Git & GitHub</strong> – Version control & documentation</li>
+  <li>💡 <strong>DIALux Evo & AutoCAD</strong> – Lighting simulation & electrical layouts</li>
+</ul>
+
+---
+
+<h2>🌱 Academic & Professional Focus</h2>
+
+<ul>
+  <li>⚡ Renewable energy systems</li>
+  <li>🌍 Energy efficiency modeling</li>
+  <li>📊 Sustainability metrics</li>
+  <li>📈 Performance optimization</li>
+  <li>🏭 Operational & business analytics</li>
+</ul>
+
+---
+
+<h2>🚀 Research</h2>
 
 <p>
-Outside of work, I enjoy sports, learning about human behavior, and exploring different cultures 🌍.
+Currently developing a thesis on biodigester efficiency modeling in Colombia, 
+integrating environmental variables such as altitude and temperature to estimate system performance and support sustainable energy solutions.
 </p>
 
-<hr>
+---
 
-<h2>Technical Skills & Tools</h2>
-
-<ul>
-  <li><strong>SQL</strong> – Data querying, joins, aggregation, filtering, and analysis.</li>
-  <li><strong>Excel (Advanced)</strong> – Pivot tables, Power Query, data cleaning, and financial analysis.</li>
-  <li><strong>Power BI</strong> – Dashboard creation, data modeling, DAX basics, KPI tracking.</li>
-  <li><strong>Python (Pandas – Basic)</strong> – Data cleaning and exploratory analysis.</li>
-  <li><strong>Data Cleaning & Transformation</strong> – Preparing structured datasets for analysis.</li>
-  <li><strong>Data Visualization</strong> – Translating complex information into clear business insights.</li>
-  <li><strong>Git & GitHub</strong> – Version control and project documentation.</li>
-</ul>
-
-<hr>
-
-<h2>Academic & Professional Focus</h2>
-
-<ul>
-  <li>Renewable energy systems</li>
-  <li>Energy efficiency analysis</li>
-  <li>Sustainability metrics</li>
-  <li>Performance optimization</li>
-  <li>Business & operational analytics</li>
-</ul>
-
-<hr>
-
-<h2>Featured Projects</h2>
-
-<ul>
-  <li> </li>
-</ul>
-
-<hr>
-
-<h2>Currently Working On</h2>
-
-<ul>
-  <li>Strengthening Power BI & data modeling skills</li>
-  <li>Building projects focused on renewable energy analytics</li>
-  <li>Expanding knowledge in climate-tech data applications</li>
-</ul>
-
-<hr>
-
-<h2>Career Objective</h2>
+<h2>🌎 Beyond Engineering</h2>
 
 <p>
-To grow as a Data Analyst within the renewable energy or sustainability sector, contributing to efficient decision-making through structured data analysis while building a stable and impactful career.
+🏃 Sports enthusiast <br>
+🧠 Curious about human behavior <br>
+🌍 Passionate about cultural exploration and global perspectives
 </p>
 
-<hr>
+---
 
+<h2>📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/lnparrat">
+    <img src="https://img.shields.io/badge/GitHub-lnparrat-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/lnparrat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Laura%20Parra-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 <h2>GitHub Statistics</h2>
 
 <details>
