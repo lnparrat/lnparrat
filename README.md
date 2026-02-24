@@ -90,7 +90,9 @@ integrating environmental variables such as altitude and temperature to estimate
 
 <h2>🌎 Beyond Engineering</h2>
 
-<img align="right" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="220"/>
+</p>
 
 <p>
 🏃 Sports enthusiast <br>
